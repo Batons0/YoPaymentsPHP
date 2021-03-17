@@ -17,7 +17,11 @@
         { 
             "name": "Ronald Sebuhinja", 
             "email": "rsebuhinja@yo.co.ug" 
-        } 
+        },
+        {
+            "name": "Tomasz Żuk",
+            "email": "batons0@gmail.com"
+        }
     ],
     "require": {
         "php": "^5.3.3 || ^7.0" 	

@@ -22,12 +22,12 @@ $yoAPI = new YoAPI($username, $password);
 Yo! Payments API PHP Library is available via [Composer/Packagist](https://packagist.org/packages/yo-uganda/yopaymentsphp) (using semantic versioning), so just add this line to your ```composer.json``` file
 
 ```
-"yo-uganda/yopaymentsphp": "^1.0" 
+"batons0/yopaymentsphp": "^1.0" 
 ```
 or
 
 ```
-composer require yo-uganda/yopaymentsphp
+composer require batons0/yopaymentsphp
 ```
 Then inside your PHP script, add the line
 
