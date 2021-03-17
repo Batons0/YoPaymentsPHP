@@ -1,5 +1,5 @@
 {
-    "name": "yo-uganda/yopaymentsphp",
+    "name": "batons0/yopaymentsphp",
     "type": "library",
     "description": "A PHP Library to interact with the Yo! Payments API.",
     "keywords": ["YoPayments", "mobile money", "composer", "package"], 
@@ -21,6 +21,9 @@
     ],
     "require": {
         "php": "^5.3.3 || ^7.0" 	
+    },
+    "replace": {
+        "yo-uganda/yopaymentsphp": "*"
     },
     "autoload": {
         "classmap": [
