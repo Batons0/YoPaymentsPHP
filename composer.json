@@ -25,9 +25,6 @@
     "require": {
         "php": "^5.3.3 || ^7.0 || ^8.0"
     },
-    "conflict": {
-        "yo-uganda/yopaymentsphp": "*"
-    },
     "replace": {
         "yo-uganda/yopaymentsphp": "*"
     },
